@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct 22 12:51:19 2020
 
-@author: ELCOT
-"""
 
 import pandas as pd
 import webbrowser
